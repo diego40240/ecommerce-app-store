@@ -1,0 +1,5 @@
+
+.activeNav {
+    @apply flex after:rounded-full after:py-1.5 after:bg-[#EFEFEF] relative after:content-['Home'] after:text-black after:pl-5 after:pr-2;
+}
+/* "fill-white w-9 h-9 p-2 absolute flex justify-start -left-5 -top-0 rounded-full bg-black duration-1000 ease-out" */
